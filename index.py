@@ -6,3 +6,4 @@ def myNum(a,b):
     else:
         print('Greater than')
 myNum(4,7)
+print(6*"----------")
